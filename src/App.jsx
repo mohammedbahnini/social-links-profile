@@ -24,9 +24,9 @@ function App() {
   ];
 
   return (
-    <div className="container min-h-screen mx-auto px-6   ">
+    <div className="container min-h-svh mx-auto px-6 pt-[116px] md:pt-[174px]    ">
 
-      <div className="bg-dark-grey mt-[116px] md:mt-[174px] p-6 flex flex-col items-center rounded-xl max-w-[327px] md:max-w-[384px] mx-auto ">
+      <div className="bg-dark-grey  p-6 flex flex-col items-center rounded-xl max-w-[327px] md:max-w-[384px] mx-auto ">
         <div className="w-[88px] aspect-square rounded-full overflow-hidden">
           <img src="/assets/images/avatar-jessica.jpeg" alt="" />
         </div>
